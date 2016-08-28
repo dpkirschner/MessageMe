@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/TwilioDevEd/ipm-quickstart-node"
+    "url": "github.com/dpkirschner/MessageMe"
   },
   "keywords": [
     "twilio",
